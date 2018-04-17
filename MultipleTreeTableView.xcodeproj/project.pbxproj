@@ -222,6 +222,7 @@
 				TargetAttributes = {
 					845F8A5C1F42D3B900F8F59E = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8NDM2JAGC4;
 						ProvisioningStyle = Automatic;
 					};
 					845F8A751F42D3BB00F8F59E = {
@@ -440,6 +441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8NDM2JAGC4;
 				INFOPLIST_FILE = MultipleTreeTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gcg.MultipleTreeTableView;
@@ -451,6 +453,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8NDM2JAGC4;
 				INFOPLIST_FILE = MultipleTreeTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gcg.MultipleTreeTableView;
